@@ -1,11 +1,11 @@
 # InternIntelligence_HeartFailurePrediction
 Source: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data
 </hr>
-## About Dataset
+<h3>About Dataset</h3>
 
 This project explores the use of machine learning to predict the likelihood of heart disease based on medical records. By leveraging various features such as age, cholesterol levels, blood pressure, and heart-related tests, the goal is to build a model that can accurately predict whether an individual has heart disease or not.
 </hr>
-## Table of Contents
+ Table of Contents
 
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
